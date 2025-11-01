@@ -1,0 +1,18 @@
+[data-testid="stAppViewContainer"] {
+    background-image: url("../assets/renekton_wallpaper.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+[data-testid="stHeader"] {
+    background: rgba(0,0,0,0); /* transparent header */
+}
+
+[data-testid="stSidebar"] {
+    background: rgba(10,10,10,0.8); /* slightly transparent sidebar */
+}
+
+[data-testid="stToolbar"] {
+    right: 2rem;
+}

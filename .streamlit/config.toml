@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#C8AA6E"                # Gold accent (LoL style)
+backgroundColor="#0A0A0C"             # Deep black background
+secondaryBackgroundColor="#1C1C1E"    # Slightly lighter black
+textColor="#E5C07B"                   # Warm gold text
+font="sans serif"
